@@ -16,8 +16,8 @@ Every Year:	Increment Age
 		
 Else No Auto-Renew:	Affinity = 	Payment_at_Purchase/Attribute_Price + (2 * Attribute_Promotions * Inertia_for_Switch)
 	
-  If Breed_C	: Switch to Breed_NC if Affinity < (Social_Grade * Attribute_Brand)
-                                      : if not keep the same 
+ 	 If Breed_C	: Switch to Breed_NC if Affinity < (Social_Grade * Attribute_Brand)
+                                            : if not keep the same 
   
 	If Breed_NC	:Switch to Breed_C if Affinity < (Social_Grade * Attribute_Brand * Brand_Factor)
 		                                  : if not keep the same 
