@@ -1,7 +1,7 @@
 # SimudyneProject
 
 
-The Use case is to develop  an algrithm or a platform for Iterative data mining .
+The Use case is to develop  an algorithm or a platform for Iterative data mining .
 
 The Sample data set which is a file storage contains fields like 
 
